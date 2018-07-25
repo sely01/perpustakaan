@@ -1,2 +1,1 @@
-# perpustakaan
-sistem informasi perpustakaan 
+# perpus
